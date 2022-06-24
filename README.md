@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Heisenberg
+
+- 🌱 I’m currently learning CSharp
+- 🔭 I’m currently working on Exiled Plugins for The Emporium
+- 👯 I’m looking to collaborate on Exiled Plugins
+- 📫 How to reach me: Heisenberg3666 on Discord
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Heisenberg3666&theme=github_dark&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberg3666&layout=compact)
 
 <!--
 **Heisenberg3666/Heisenberg3666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
