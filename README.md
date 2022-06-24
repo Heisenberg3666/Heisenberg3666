@@ -17,7 +17,7 @@
 
 <p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heisenberg3666&theme=default&layout=compact" alt="Heisenberg3666 stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heisenberg3666&theme=github_dark&layout=compact" alt="Heisenberg3666 stats card" /></p>
 
 <a href="https://www.w3schools.com/cs/" target="blank">
 
