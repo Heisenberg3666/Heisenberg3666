@@ -3,13 +3,13 @@
 ## 🚀 About Me
 
 
-- I'm a Python and CSharp developer
+- I'm a full stack developer.
 
-- I hate frontend
+- I am learning ReactJS.
 
-- I develop plugins in CSharp using the Exiled framework for SCP: SL
+- I program C#.
 
-- I develop those plugins for The Emporium
+- Tailwind is good.
 
 <p>&nbsp;
 
@@ -25,15 +25,9 @@
 
 </a>
 
-<a href="https://www.python.org" target="blank">
+<a href="https://dotnet.microsoft.com/en-us" target="blank">
 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-
-</a>
-
-<a href="https://www.mysql.com/" target="blank">
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" height="40" width="40" />
 
 </a>
 
@@ -43,45 +37,9 @@
 
 </a>
 
-<a href="https://www.sqlite.org/" target="blank">
-
-<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40" width="40" />
-
-</a>
-
-<a href="https://www.djangoproject.com/" target="blank">
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="40" width="40" />
-
-</a>
-
 <a href="https://dotnet.microsoft.com/" target="blank">
 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" height="40" width="40" />
-
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="blank">
-
-<img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="40" width="40" />
-
-</a>
-
-<a href="https://www.photoshop.com/en" target="blank">
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" width="40" />
-
-</a>
-
-<a href="https://postman.com" target="blank">
-
-<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
-
-</a>
-
-<a href="https://unity.com/" target="blank">
-
-<img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40" width="40" />
 
 </a>
 
@@ -95,4 +53,16 @@
 
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
 
+</a>
+
+<a href="https://javascript.com/" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+</a>
+
+<a href="https://react.dev/" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
+</a>
+
+<a href="https://tailwindcss.com/" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" height="40" width="40" />
 </a>
