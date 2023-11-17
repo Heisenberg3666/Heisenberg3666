@@ -5,7 +5,7 @@
 
 - I'm a full stack developer.
 
-- I am learning ReactJS.
+- I am learning ReactTS.
 
 - I program C#.
 
